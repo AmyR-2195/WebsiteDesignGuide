@@ -1,0 +1,122 @@
+body {
+    font-family: 'Lora', sans-serif;
+    margin: 0 10%;
+    background-color: #FFF0F5;
+  }
+  
+  header {
+    font-family: 'Lora', sans-serif;
+    text-align: center;
+    
+  }
+  
+  header h1 {
+    color:#000000;
+    text-shadow: 2px 2px 5px aqua;
+  }
+  
+  h2 {
+    font-family: 'Lora', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .container {
+    border: 5px solid #FFFFFF;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: center;
+    width: 60%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .PaleTurquoise {
+    background-color: #AFEEEE;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .DeepSkyBlue {
+    background-color: #00BFFF;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .LightSeaGreen {
+    background-color: #20B2AA;
+    color: #000
+    font-weight: bold;
+  }
+  
+  .Aquamarine {
+    background-color: #7FFFD4;
+    color: #000
+    font-weight: bold;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: center;
+    margin: 20px
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px Aqua;
+  }
+  
+  .regular {
+    font-style: normal;
+   
+  }
+  
+  .italic {
+    font-style: italic;
+    
+  }
+  
+  .bold {
+    font-weight: 800;
+  }
+  
+  .Lora {
+    font-family: 'Lora', sans-serif;
+  }
+  
+  .OpenSansCondensed {
+    font-family: 'Open Sans Condensed', monospace;
+  }
+  
+  .LibreBaskerville {
+    font-family: 'Libre Baskerville', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 800;
+    font-size: 32px;
+    font-family: 'Lora', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Libre Baskerville', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Lora', sans-serif;
+  }
